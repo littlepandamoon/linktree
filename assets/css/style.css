@@ -100,7 +100,7 @@ body {
 hr {
 	color: #fff;
 	background: #ffff;
-	border: 1px dashed #666;
+	border: 1px solid #eaeaea;
 }
 
 div.footer i.fa{
